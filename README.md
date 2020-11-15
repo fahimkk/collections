@@ -1,2 +1,2 @@
 # collections
-Python collection Module
+Python collections Module
